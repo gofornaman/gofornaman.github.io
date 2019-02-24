@@ -1,12 +1,12 @@
-title: Brendan Sudol
-email: brendansudol@gmail.com
-author: Brendan Sudol
-description: A simple site by a simple guy
+title: Naman Doshi
+email: namanjd@outlook.com
+author: Naman Doshi
+description: I like to build stuff on the web
 
 baseurl: ""
-url: "https://www.brendansudol.com"
+url: "https://www.gofornaman.github.io"
 
-google_analytics: UA-37353161-5
+google_analytics: 
 
 date_format: "%B %Y"
 permalink: /writing/:title
