@@ -6,9 +6,6 @@ permalink: /
 ---
 <h1 class="mb2 h2">Hello world 🌏 </h1>
   <div class='mb2'>
-    <!-- <a class='block bold black' href='{{ post.url | prepend: site.baseurl }}'>
-      Hello world!
-    </a> -->
     I’m Naman. I'm a data scientist living in Chennai, India. I like
     making things on the web. <br>
     I really like to solve problems with data. 
