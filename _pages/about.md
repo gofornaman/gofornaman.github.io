@@ -14,9 +14,9 @@ permalink: /about/
   </div>
 
 <h1 class="mb2 h2">Have a crazy idea? Ping me! 🌟 </h1>
-
+<ul>
 * [Github]('https://github.com/gofornaman')
 * [Linkedin]('https://linkedin.com/in/naman-doshi')
 * [Twitter]('https://twitter.com/gofornaman')
-
+</ul>
 

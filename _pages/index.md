@@ -1,30 +1,23 @@
 ---
 layout: skinny
+all_css: true
+title: Naman's world!
 permalink: /
 ---
+<h1 class="mb2 h2">Hello world 🌏 </h1>
+  <div class='mb2'>
+    <!-- <a class='block bold black' href='{{ post.url | prepend: site.baseurl }}'>
+      Hello world!
+    </a> -->
+    I’m Naman. I'm a data scientist living in Chennai, India. I like
+    making things on the web. <br>
+    I really like to solve problems with data. 
+  </div>
 
-<p class='sm-col-4'>
-  Hello! I’m Naman. I'm a data scientist living in Chennai, India. I like
-  making things on the web.
-</p>
+<h1 class="mb2 h2">Have a crazy idea? Ping me! 🌟 </h1>
+* [Github]('https://github.com/gofornaman')
+* [Linkedin]('https://linkedin.com/in/naman-doshi')
+* [Twitter]('https://twitter.com/gofornaman')
 
-<h4 class='mt4'>Recent Writing</h4>
-<ul class='m0 list-reset sm-col-4'>
-  {% for post in site.posts limit:4 %}
-    <li class='mb1'>
-      <a href='{{ post.url | prepend: site.baseurl }}'>{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  <li class='mb1'><a class='italic' href='/writing'>View more...</a></li>
-</ul>
 
-<h4 class='mt4'>Recent Projects</h4>
-<ul class='m0 list-reset sm-col-4'>
-  {% for project in site.projects limit:4 %}
-    <li class='mb1'>
-      <a target='_blank' href='{{ project.url }}'>{{ project.title }}</a>
-      <div>{{ project.summary }}</div>
-    </li>
-  {% endfor %}
-  <li class='mb1'><a class='italic' href='/projects'>View more...</a></li>
-</ul>
+
