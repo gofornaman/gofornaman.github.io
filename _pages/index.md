@@ -35,6 +35,25 @@ permalink: /
     <li class='mb1'><a class='italic' href='/projects'>View more...</a></li>
     </ul>
 
+<h4 class='mt4'>Recent Competitions</h4>
+ <ul class='m0 list-reset sm-col-4'>
+ <li class='mb1'>
+    <a class='h4 black' target= '_blank' href='/competitions'>
+     Unilever Datathon - (1/328) 🏆  
+    </a> <br>
+    <a class='h4 black' target='_blank' href='/competitions'>
+     Codiecon - Top 50 ⭐
+    </a> <br>
+    <a class='h4 black' target='_blank' href='/competitions'>
+     SpriteXtreme CEG - (1/200) 🏆 
+    </a> <br>
+    <a class='h4 black' target='_blank' href='/competitions'>
+     GUVI Tech Hackathon - (1/328) 🏆 
+    </a>
+    </li>
+    <li class='mb1'><a class='italic' href='/competitions'>View more...</a></li>
+    </ul>
+
 
 <h4 class='mt4'>Have a crazy idea? Ping me! 🌟 </h4>
 [Github]('https://github.com/gofornaman') | [Linkedin]('https://linkedin.com/in/naman-doshi') |
