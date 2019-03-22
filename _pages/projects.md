@@ -14,14 +14,14 @@ permalink: /projects/
 
    <div class='mb3'>
     <a class='h3 bold black' target='_blank' href='https://towardsdatascience.com/solving-real-world-problem-using-data-science-e2236159a1a9'> 
-     Scorey 💯 <span class='h6 regular'>Featured on TDS!</span>
+     Scorey.ai 💯 <span class='h6 regular'>Featured on TDS!</span>
     </a>
     <p> Scraping, aggregating and assessing technical ability of a candidate based on publicly available sources.
     </p>
   </div>
 
    <div class='mb3'>
-    <a class='h3 bold black' target='_blank' href='https://github.com/gofornaman/Real-Time-Sentiment-Analysis'>
+    <a class='h3 bold black' target='_blank' href='http://emolyzer.herokuapp.com/'>
      Emolyzer 😬 
     </a>
     <p> Real-time sentiment analysis on tweets using Python, Flask-API, Gunicorn, Tweepy & TextBlob 
