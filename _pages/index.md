@@ -38,8 +38,8 @@ permalink: /
 
 <h4 class='mt4'>Recent Talks</h4>
  <ul class='m0 list-reset sm-col-4'>
- <li class='mb1'>
-                        <img src="/assets/img/misc/1.jpg" alt="" style="width:30%">
+ <li class='mb1'>   
+                        <img src="/assets/img/misc/1.jpg"  style="width:30%">
                          <img src="/assets/img/misc/5.2.jpg"  style="width:30%" >
                          <img src="/assets/img/misc/6.2.jpg"  style="width:30%" >
               </li>
