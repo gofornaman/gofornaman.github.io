@@ -3,6 +3,7 @@ layout: skinny
 all_css: true
 title: Naman Doshi
 permalink: /
+
 ---
 <div class='mb2'>
     Hello, I’m Naman. I'm a data scientist living in India. <br> I like
@@ -34,6 +35,17 @@ permalink: /
     </li>
     <li class='mb1'><a class='italic' href='/projects'>View more...</a></li>
     </ul>
+
+<h4 class='mt4'>Recent Talks</h4>
+ <ul class='m0 list-reset sm-col-4'>
+ <li class='mb1'>
+                        <img src="/assets/img/misc/1.jpg" alt="" style="width:30%">
+                         <img src="/assets/img/misc/5.2.jpg"  style="width:30%" >
+                         <img src="/assets/img/misc/6.2.jpg"  style="width:30%" >
+              </li>
+<li class='mb1'><a class='italic' href='/talks'>View more...</a></li>
+</ul>
+
 
 <h4 class='mt4'>Recent Competitions</h4>
  <ul class='m0 list-reset sm-col-4'>
