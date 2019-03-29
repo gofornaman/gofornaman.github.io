@@ -5,10 +5,11 @@ title: Naman Doshi
 permalink: /
 
 ---
-<div class='mb2'>
-    Hello, I’m Naman. I'm a data scientist living in India. <br> I like
-    making things on the web. <br>
-    Also I really like to solve problems with data. 
+<div class='mb3'> 
+    Hello, I’m Naman. I'm a data scientist living in India. <br> I've constantly awed by how machine learning can be used in almost every industry.
+    So far worked with E-Commerce, Media, E-Learning, Finance & Wellness industry. <br>
+    Also I like making things on the web. <br>
+     
 
   </div>
 <h4 class='mt4'>Recent Projects</h4>

@@ -3,6 +3,21 @@ layout: skinny
 title: Projects
 permalink: /projects/
 ---
+  <div class='mb3'>
+    <a class='h3 bold black' target='_blank' href='https://github.com/gofornaman/All-things-NLP/blob/master/Hashing%20Vectorizer%20to%20classify%20queries/notebook.ipynb'>
+     Classifying Customer Queries 📱 
+    </a>
+    <p> Using BoW (Bag of Words), Hashing Vectorization, Linear SVC & PCA to classify whether a query is urgent or not.
+    </p>
+  </div>
+
+  <div class='mb3'>
+    <a class='h3 bold black' target='_blank' href='https://github.com/gofornaman/All-things-NLP/blob/master/SpaCy%20to%20screen%20ML%20resume/notebook.ipynb'>
+     Screening ML resume using SpaCy 📋 
+    </a>
+    <p> Parsing PDF to extract keywords and using SpaCy's phrase matcher to count the occurences & finally plot it using matplotlib.
+    </p>
+  </div>
 
   <div class='mb3'>
     <a class='h3 bold black' target='_blank' href='https://github.com/gofornaman/Fraud-Trader-Identification-Model'>
