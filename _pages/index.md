@@ -6,14 +6,19 @@ permalink: /
 
 ---
 <div class='mb3'> 
-    Hello, I’m Naman. I'm a data scientist living in India. <br> I'm constantly awed by how machine learning can be used in almost every industry. Worked with E-Commerce, Media, E-Learning, Finance & Wellness industry. <br>
-    Also I like making things on the web. <br>
-     
-
-  </div>
+    Hello, I’m Naman. I'm a data scientist living in India. <br> 
+    I'm constantly awed by how AI / ML can be used in almost every industry. <br>
+    Worked with E-Commerce, Media, E-Learning, Finance & Wellness industry. 
+     </div>
 <h4 class='mt4'>Recent Projects</h4>
  <ul class='m0 list-reset sm-col-4'>
  <li class='mb1'>
+    <a target='_blank' href='https://github.com/gofornaman/All-things-NLP/blob/master/Hashing%20Vectorizer%20to%20classify%20queries/notebook.ipynb'>
+     Classifying Customer Queries 📱  
+    </a>
+    <div class ='mb2'>
+    <p> Using BoW (Bag of Words), Hashing Vectorization, Linear SVC & PCA to classify whether a query is urgent or not. 
+    </p> </div>
     <a target='_blank' href='https://github.com/gofornaman/Fraud-Trader-Identification-Model'>
      Trader Idenfication Model (TIM) 👥 
     </a>
