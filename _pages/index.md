@@ -16,10 +16,10 @@ permalink: /
 <h4 class='mt4'>Recent Works</h4>
  <ul class='m0 list-reset sm-col-4'>
  <li class='mb1'>   
-                        <img src="/assets/img/misc/w1.jpg"  style="width:30%">
-                         <img src="/assets/img/misc/w2.jpg"  style="width:30%" >
-                         <img src="/assets/img/misc/w3.jpg"  style="width:30%" >
-                         <img src="/assets/img/misc/w4.jpg"  style="width:30%" >
+                        <img src="/assets/img/misc/w1.png"  style="width:30%">
+                         <img src="/assets/img/misc/w2.png"  style="width:30%" >
+                         <img src="/assets/img/misc/w3.png"  style="width:30%" >
+                         <img src="/assets/img/misc/w4.png"  style="width:30%" >
 
               </li>
 </ul>
