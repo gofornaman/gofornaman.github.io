@@ -7,9 +7,23 @@ permalink: /
 ---
 <div class='mb3'> 
     Hello, I’m Naman. I'm a data scientist living in India. <br> 
-    I'm constantly awed by how AI / ML can be used in almost every industry. <br>
-    Worked with E-Commerce, Media, E-Learning, Finance & Wellness industry. 
+    Currently I'm working with Myanmar's biggest digital wallet - 
+    <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a> <br>
+    At the inflexion of data science & behavioural economics. <br>
+    Previously worked with Indonesian eCommerce giant - blibli.com
      </div>
+
+<h4 class='mt4'>Recent Works</h4>
+ <ul class='m0 list-reset sm-col-4'>
+ <li class='mb1'>   
+                        <img src="/assets/img/misc/w1.jpg"  style="width:30%">
+                         <img src="/assets/img/misc/w2.jpg"  style="width:30%" >
+                         <img src="/assets/img/misc/w3.jpg"  style="width:30%" >
+                         <img src="/assets/img/misc/w4.jpg"  style="width:30%" >
+
+              </li>
+</ul>
+
 <h4 class='mt4'>Recent Projects</h4>
  <ul class='m0 list-reset sm-col-4'>
  <li class='mb1'>
