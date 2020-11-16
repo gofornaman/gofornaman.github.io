@@ -8,7 +8,7 @@ permalink: /talks/
  
  <div class='mb4 sm-col-4'>
                 <div class="mb3">
-                    <center><a class="h3 bold black" target="_blank" href=""> Machine Leaning 101 @ Anna University  </a> 
+                    <center><a class="h3 bold black" target="_blank" href=""> Machine Learning 101 @ Anna University  </a> 
                         <p> Intro to Python for Machine learning .</p>
                         <img src="/assets/img/misc/1.jpg" alt="" style="width:40%">
                          <img src="/assets/img/misc/1.1.jpg"  style="width:40%" >
