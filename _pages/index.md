@@ -7,7 +7,7 @@ permalink: /
 ---
 <div class='mb3'> 
     Hello, I’m Naman. I'm a data scientist living in India. <br> 
-    Currently I'm working with Myanmar's biggest digital wallet - 
+    Currently I'm working with Crayon Data for Myanmar's biggest digital wallet - 
     <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a> <br>
     At the inflexion of data science & behavioural economics. <br>
     Previously worked with Indonesian eCommerce giant - blibli.com
