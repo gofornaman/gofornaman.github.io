@@ -27,18 +27,24 @@ permalink: /
 <h4 class='mt4'>Recent Projects</h4>
  <ul class='m0 list-reset sm-col-4'>
  <li class='mb1'>
+    <a target='_blank' href='https://prophecy-ai.herokuapp.com/'>
+     prophecy.ai 🔮  
+    </a>
+    <div class ='mb2'>
+    <p>Generate baseline forecasts using Facebook Prophet & Flask 
+    </p> </div>
     <a target='_blank' href='https://github.com/gofornaman/All-things-NLP/blob/master/Hashing%20Vectorizer%20to%20classify%20queries/notebook.ipynb'>
      Classifying Customer Queries 📱  
     </a>
     <div class ='mb2'>
     <p> Using BoW (Bag of Words), Hashing Vectorization, Linear SVC & PCA to classify whether a query is urgent or not. 
     </p> </div>
-    <a target='_blank' href='https://github.com/gofornaman/Fraud-Trader-Identification-Model'>
+    <!-- <a target='_blank' href='https://github.com/gofornaman/Fraud-Trader-Identification-Model'>
      Trader Idenfication Model (TIM) 👥 
     </a>
     <div class ='mb2'>
     <p> Unsupervised fuzzy clustering on 1 million data points
-    </p> </div>
+    </p> </div> -->
     <a target='_blank' href='https://towardsdatascience.com/solving-real-world-problem-using-data-science-e2236159a1a9'>
      Scorey.ai 💯
     </a>
