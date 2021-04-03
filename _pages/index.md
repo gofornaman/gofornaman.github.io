@@ -6,9 +6,9 @@ permalink: /
 
 ---
 <div class='mb3'> 
- - Hi I'm Naman, a Full-Stack Data Scientist with experience in converting business problems into data-driven solutions and domain expertise in Payments, Fintech, Digital banking, Financial services (India & Southeast Asia).
- - Currently working as a Data Scientist alongside CEO office at <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a>, the mobile wallet extension of Myanmar’s KBZ Bank where we are driving financial inclusion for 30 million people. In 2.5 years since launch, we have onboarded more than 8MN customers & 300K merchants / agents onto the platform and processed ~$10BN worth of transactions. 
- - Demonstrated skillset in data-first approach to product thinking, design-controlled experiments, product innovation, data visualization, storytelling, causal inference, econometric tools & statistical modeling.
+ - Hi I'm Naman, a Full-Stack Data Scientist with experience in converting business problems into data-driven solutions and domain expertise in Payments, Fintech, Digital banking, Financial services (India & Southeast Asia). <br>
+ - Currently working as a Data Scientist alongside CEO office at <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a>, the mobile wallet extension of Myanmar’s KBZ Bank where we are driving financial inclusion for 30 million people. In 2.5 years since launch, we have onboarded more than 8MN customers & 300K merchants / agents onto the platform and processed ~$10BN worth of transactions.  <br>
+ - Demonstrated skillset in data-first approach to product thinking, design-controlled experiments, product innovation, data visualization, storytelling, causal inference, econometric tools & statistical modeling. <br>
  - Previously worked with Indonesian eCommerce giant - blibli.com
   </div>
 
