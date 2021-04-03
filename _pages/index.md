@@ -6,11 +6,12 @@ permalink: /
 
 ---
 <div class='mb3'> 
-Hello, I’m Naman. I'm a data scientist living in India. <br> 
+Hello! I’m Naman, a full-stack data scientist based out of India <br> 
 Currently I'm working at <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a> 
     (via <a target='_blank' href='https://www.crayondata.com/'> Crayon Data </a>), the mobile wallet extension of Myanmar’s KBZ Bank where we are driving financial inclusion for 30 million people. <br>
 Interests: Behavourial Economics, Storytelling, Product thinking & Data Science <br>
-Previously worked with Indonesian eCommerce giant <a target='_blank' href='https://www.blibli.com/'> Blibli.com </a>
+Previously worked with Indonesian eCommerce giant <a target='_blank' href='https://www.blibli.com/'> Blibli.com </a> <br>
+Here's a hodgepodge of some of my silly, personal projects:
   </div>
 
 <!-- <h4 class='mt4'>Recent Works</h4>
