@@ -6,16 +6,12 @@ permalink: /
 
 ---
 <div class='mb3'> 
- - Hi I'm Naman, a Full-Stack Data Scientist with experience in converting business problems into data-driven solutions and domain expertise in Payments, Fintech, Digital banking, Financial services (India & Southeast Asia). <br>
- - Currently working as a Data Scientist alongside CEO office at <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a>, the mobile wallet extension of Myanmar’s KBZ Bank where we are driving financial inclusion for 30 million people. In 2.5 years since launch, we have onboarded more than 8MN customers & 300K merchants / agents onto the platform and processed ~$10BN worth of transactions.  <br>
- - Demonstrated skillset in data-first approach to product thinking, design-controlled experiments, product innovation, data visualization, storytelling, causal inference, econometric tools & statistical modeling. <br>
- - Previously worked with Indonesian eCommerce giant - blibli.com
+Hello, I’m Naman. I'm a data scientist living in India. <br> 
+Currently I'm working at <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a> 
+    (via <a target='_blank' href='https://www.crayondata.com/'> Crayon Data </a>), the mobile wallet extension of Myanmar’s KBZ Bank where we are driving financial inclusion for 30 million people. <br>
+Interests: Behavourial Economics, Storytelling, Product thinking & Data Science <br>
+Previously worked with Indonesian eCommerce giant <a target='_blank' href='https://www.blibli.com/'> Blibli.com </a>
   </div>
-
- <!-- Hello, I’m Naman. I'm a data scientist living in India. <br> 
-    Currently I'm working with Crayon Data for Myanmar's biggest digital wallet - 
-    <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a> <br>
-    At the inflexion of data science & behavioural economics. <br> -->
 
 <!-- <h4 class='mt4'>Recent Works</h4>
  <ul class='m0 list-reset sm-col-4'>
@@ -32,7 +28,7 @@ permalink: /
  <ul class='m0 list-reset sm-col-4'>
  <li class='mb1'>
     <a target='_blank' href='https://prophecy-ai.herokuapp.com/'>
-     prophecy.ai 🔮  
+     Prophecy.ai 🔮  
     </a>
     <div class ='mb2'>
     <p>Generate baseline forecasts using Facebook Prophet & Flask 
