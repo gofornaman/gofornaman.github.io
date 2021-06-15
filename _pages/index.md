@@ -28,6 +28,12 @@ Here's a hodgepodge of some of my silly, personal projects:
 <h4 class='mt4'>Recent Projects</h4>
  <ul class='m0 list-reset sm-col-4'>
  <li class='mb1'>
+    <a target='_blank' href='https://github.com/gofornaman/Survival-Analysis-for-Attrition'>
+     Dr. SAM for Attrition 🩺  
+    </a>
+    <div class ='mb2'>
+    <p> Using SAM (Survival Analysis Model) to predict Customer Attrition. 
+    </p> </div> 
     <a target='_blank' href='https://prophecy-ai.herokuapp.com/'>
      Prophecy.ai 🔮  
     </a>
