@@ -9,6 +9,7 @@ permalink: /
 Hello! I’m Naman, a full-stack data scientist based out of India <br> 
 Currently I'm working at <a target='_blank' href='https://www.kbzpay.com/personal/en'> KBZPay </a> 
     (via <a target='_blank' href='https://www.crayondata.com/'> Crayon Data </a>), the mobile wallet extension of Myanmar’s KBZ Bank where we are driving financial inclusion for 30 million people. <br>
+In 2.5 years since launch, we have onboarded more than 8MN customers & 300K merchants/agents onto the platform and processed ~$10BN worth of transactions. <br>
 Interests: Behavourial Economics, Storytelling, Product thinking & Data Science <br>
 Previously worked with Indonesian eCommerce giant <a target='_blank' href='https://www.blibli.com/'> Blibli.com </a> <br>
 Here's a hodgepodge of some of my silly, personal projects:
