@@ -4,6 +4,14 @@ title: Projects
 permalink: /projects/
 ---
   <div class='mb3'>
+    <a class='h3 bold black' target='_blank' href='https://github.com/gofornaman/Predicting-Customer-Churn-using-PyCaret'>
+     Predicting Churn (the right way!)☠️ 
+    </a>
+    <p> Churn method that actually optimizes the business objective and improves ROI.
+    </p>
+  </div>
+  
+  <div class='mb3'>
     <a class='h3 bold black' target='_blank' href='https://github.com/gofornaman/All-things-NLP/blob/master/Hashing%20Vectorizer%20to%20classify%20queries/notebook.ipynb'>
      Classifying Customer Queries 📱 
     </a>
