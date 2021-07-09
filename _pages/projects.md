@@ -5,7 +5,7 @@ permalink: /projects/
 ---
   <div class='mb3'>
     <a class='h3 bold black' target='_blank' href='https://github.com/gofornaman/Predicting-Customer-Churn-using-PyCaret'>
-     Predicting Churn (the right way!)☠️ 
+     Predicting Churn (the right way!) ☠️ 
     </a>
     <p> Churn method that actually optimizes the business objective and improves ROI.
     </p>
